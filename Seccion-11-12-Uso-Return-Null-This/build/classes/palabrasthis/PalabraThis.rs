@@ -1,0 +1,3 @@
+palabrasthis.Imprimir
+palabrasthis.PalabraThis
+palabrasthis.Persona
