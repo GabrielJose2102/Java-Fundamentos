@@ -78,26 +78,47 @@ Durante el curso, se proporcionan ejemplos prácticos y se realizan ejercicios p
 ## Resumen y Analisis
 
 - Sección 1 Variables: Las variables son contenedores que almacenan valores en la memoria y se utilizan para almacenar y manipular información en un programa.
+- 
 - Sección 2 Tipos Primitivos: Los tipos primitivos son los tipos de datos básicos en un lenguaje de programación, como enteros, decimales, caracteres y booleanos.
+- 
 - Sección 3 Operadores: Los operadores son símbolos o palabras clave que se utilizan para realizar operaciones matemáticas, lógicas o de asignación en un programa.
+- 
 - Sección 4 Sentencias de Control: Las sentencias de control son estructuras que permiten controlar el flujo de ejecución de un programa, como if-else, switch y bucles.
+- 
 - Sección 5 Ciclos: Los ciclos son estructuras que permiten repetir un bloque de código varias veces hasta que se cumpla una condición, como for, while y do-while.
+- 
 - Sección 6 Creación de Clases y Objetos: Las clases son plantillas o moldes para crear objetos en programación orientada a objetos. Los objetos son instancias de una clase que tienen propiedades y comportamientos.
+- 
 - Sección 7 Métodos: Los métodos son bloques de código reutilizables que realizan una tarea específica. Se definen dentro de una clase y se pueden llamar para ejecutar el código contenido en ellos.
+- 
 - Sección 8 Constructores: Los constructores son métodos especiales que se utilizan para inicializar objetos de una clase. Se llaman automáticamente al crear un nuevo objeto.
+- 
 - Sección 9 Alcance de las Variables: El alcance de una variable se refiere a la parte del programa donde la variable es visible y puede ser accedida. Las variables pueden tener alcance local o global.
+- 
 - Sección 10 Paso de parámetros por valor: Cuando se pasan parámetros a un método, se pueden pasar por valor, lo que significa que se crea una copia de la variable original y se trabaja con esa copia dentro del método.
+- 
 - Sección 11 y 12 Uso (return, null, this): "return" se utiliza para devolver un valor de un método. "null" se utiliza para indicar la ausencia de un valor. "this" se utiliza para hacer referencia al objeto actual dentro de una clase.
+- 
 - Sección 13 Encapsulamiento: El encapsulamiento es un concepto de la programación orientada a objetos que consiste en ocultar los detalles internos de una clase y proporcionar acceso controlado a través de métodos.
+- 
 - Sección 14 Contexto Estático: El contexto estático se refiere a variables y métodos que pertenecen a una clase en lugar de instancias individuales de la clase. Estos elementos se pueden acceder directamente desde la clase sin crear objetos.
+- 
 - Sección 15 Herencia: La herencia es un mecanismo en la programación orientada a objetos que permite crear nuevas clases basadas en clases existentes. La clase derivada hereda propiedades y comportamientos de la clase base.
+- 
 - Sección 16 Sobre carga de constructores: La sobrecarga de constructores permite tener múltiples constructores en una clase con diferentes parámetros, lo que permite crear objetos de varias formas.
+- 
 - Sección 17 Sobre carga de métodos: La sobrecarga de métodos permite tener múltiples métodos con el mismo nombre pero con diferentes parámetros en una clase. Los métodos se diferencian por la cantidad o tipo de parámetros.
+- 
 - Sección 18 Paquetes: Los paquetes son estructuras utilizadas para organizar y agrupar clases relacionadas en un programa. Proporcionan un espacio de nombres y ayudan a evitar conflictos de nombres.
+- 
 - Sección 19 Palabra Final: La palabra clave "final" se utiliza en diferentes contextos para indicar que algo es inmutable o no se puede modificar, como variables constantes, métodos finales o clases finales.
+- 
 - Sección 20 Arreglos: Los arreglos son estructuras de datos que almacenan múltiples valores del mismo tipo. Se accede a los elementos del arreglo utilizando índices.
+- 
 - Sección 21 Manejo de matrices: El manejo de matrices se refiere a operaciones y manipulaciones realizadas en matrices multidimensionales, que son arreglos de arreglos.
+- 
 - Sección 22 Diseño de clases: El diseño de clases se refiere a la organización y estructuración de las clases en un programa, definiendo sus propiedades, métodos y relaciones entre ellas.
+  
 ## Proyecto Final
 
 Como desarrollo del proyecto final se realizo una aplicacion sencilla, que muestra por consola una ordenes de encargo de pc.
